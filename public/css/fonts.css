@@ -1,0 +1,14 @@
+@font-face {
+    font-family: Bold; 
+    src: url(../fonts/MyriadPro-BoldCond.woff) format('woff'); 
+}
+
+@font-face {
+    font-family: Regular; 
+    src: url(../fonts/MyriadPro-Cond.woff) format('woff'); 
+}
+
+@font-face {
+    font-family: Semibold; 
+    src: url(../fonts/MyriadPro-SemiboldCond.woff) format('woff'); 
+}
